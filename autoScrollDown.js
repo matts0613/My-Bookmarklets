@@ -1,0 +1,1 @@
+javascript:var scroll = setInterval(function(){ window.scrollBy(0,10000); }, 500);

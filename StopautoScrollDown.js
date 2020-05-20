@@ -1,0 +1,1 @@
+javascript:clearInterval(scroll);
