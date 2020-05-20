@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar Login %3D alert("Please make sure you are logged into PayPal before using this.")%3Bvar caseID %3D prompt("Please enter the case ID")%3Bwindow.open("https%3A%2F%2Fwww.paypal.com%2Fresolutioncenter%2Fbilling%2Fentry%3Faction%3Dview%26caseId%3D"%2BcaseID%2B"%23%2FcaseDetails"%2C "_blank")%3Bwindow.onhashchange %3D alert("Case successfully opened")%7D)()
